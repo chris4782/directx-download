@@ -67,6 +67,8 @@ Successful Installation Indicators:
 * No more graphics errors.
 * Everything looks good.
 
+If you're looking to optimize your gaming or multimedia experience, check out the article "[DirectX 12 Download: The Ultimate Installation Guide](https://github.com/chris4782/DirectX-12-Download/blob/main/README.md)". It provides a clear, step-by-step process for installing DirectX 12, ensuring you get the most out of your system's performance.
+
 
 ## Troubleshooting Common Issues (Time: 5 Minutes)
 
